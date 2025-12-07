@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Указываем карту сайта
+Sitemap: https://licichka.github.io/sitemap.xml
